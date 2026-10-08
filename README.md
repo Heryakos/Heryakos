@@ -4,7 +4,7 @@
      HEADER
 ════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Hiryakos%20%F0%9F%91%8B&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20%26%20Project%20Manager&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Hiryakos%20%F0%9F%91%8B&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20and%20Project%20Manager&descAlignY=58&descSize=18" width="100%" />
 
 <!-- Typing SVG — emoji stripped from URL params to prevent breakage -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Full-Stack+Software+Developer;Project+Manager+%7C+Problem+Solver;Building+scalable+solutions+from+Addis+Ababa" alt="Typing SVG" />
