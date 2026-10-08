@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"    # Every day at midnight UTC
   workflow_dispatch:         # Manual trigger from the Actions tab
 
+# ─── FIX: grant the Actions bot write access to push the SVG ───
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
