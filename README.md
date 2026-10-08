@@ -4,12 +4,10 @@
      HEADER
 ════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Hiryakos%20👋&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20%26%20Project%20Manager&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Hiryakos%20%F0%9F%91%8B&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20%26%20Project%20Manager&descAlignY=58&descSize=18" width="100%" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Full-Stack+Software+Developer+🚀;Project+Manager+%7C+Problem+Solver+🧩;Building+scalable+solutions+from+🇪🇹+Addis+Ababa" alt="Typing SVG" />
-</a>
+<!-- Typing SVG — emoji stripped from URL params to prevent breakage -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Full-Stack+Software+Developer;Project+Manager+%7C+Problem+Solver;Building+scalable+solutions+from+Addis+Ababa" alt="Typing SVG" />
 
 <br/>
 
@@ -22,16 +20,31 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
+     QUICK CONNECT (placed early so visitors see it right away)
+════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hiryakos--portfolio.vercel.app-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://hiryakos-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Heryakos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Heryakos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/heryakos)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
      ABOUT ME
 ════════════════════════════════════════════════════════════════ -->
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ```yaml
 Name:       Hiryakos
-Location:   Addis Ababa, Ethiopia 🇪🇹
+Location:   Addis Ababa, Ethiopia
 Education:
   - B.S. Computer Science
   - M.S. Project Management
@@ -39,14 +52,37 @@ Experience: 3+ years of professional software development
 Focus:      Full-Stack Development & Technical Project Leadership
 ```
 
-- 🌍 **Based in:** Addis Ababa, Ethiopia
+- 🌍 **Based in:** Addis Ababa, Ethiopia 🇪🇹
 - 🎓 **B.S. Computer Science** + **M.S. Project Management**
 - 💼 **3+ years** building production-grade software end-to-end
-- 🚀 Passionate about clean architecture, scalable APIs, and delivering projects on time
+- 🚀 Passionate about clean architecture, scalable APIs, and on-time delivery
 - 🧩 I bridge the gap between **technical excellence** and **strategic delivery**
 - 💬 Ask me about **TypeScript**, **React**, **Python**, **System Design**, or **Agile PM**
 
 <br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
+     CURRENT FOCUS & BLOG
+════════════════════════════════════════════════════════════════ -->
+
+## 🔭 What I'm Currently Working On
+
+| Area | Details |
+|---|---|
+| 🏗️ **Full-Stack Projects** | Building scalable TypeScript + React + PostgreSQL applications |
+| 🌐 **3D Web Design** | Exploring Three.js and WebGL for immersive web experiences |
+| 📦 **Open Source** | Contributing to projects that solve real-world problems in Africa |
+| 📖 **Learning** | Advanced system design, microservices, and cloud architecture |
+
+## 📝 Latest Articles
+
+> ✍️ **Blog coming soon!** I'm building a GitHub Pages blog where I'll write about full-stack development, project management, and 3D web design. Stay tuned!
+
+<!-- When your blog is live, replace the above with:
+[![Blog Post 1](https://img.shields.io/badge/Article-Your%20Post%20Title-58a6ff?style=flat-square&logo=dev.to)](https://your-blog-url)
+-->
 
 ---
 
@@ -125,7 +161,7 @@ Focus:      Full-Stack Development & Technical Project Leadership
 
 </div>
 
-> 🔧 **Tip:** Pin your best repositories on GitHub to automatically have them show up here with real stats. Go to your profile → *Customize your pins*.
+> 🔧 **Tip:** Go to your GitHub profile → *Customize your pins* to feature your best repos here.
 
 ---
 
@@ -145,13 +181,14 @@ Focus:      Full-Stack Development & Technical Project Leadership
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Heryakos&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Heryakos&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
 </div>
 
+<!-- Activity Graph — using alternative reliable endpoint -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Heryakos&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Heryakos&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="95%"/>
 
 </div>
 
@@ -165,37 +202,15 @@ Focus:      Full-Stack Development & Technical Project Leadership
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Heryakos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
+<!-- Using rank_icon and column options for reliability -->
+<img src="https://github-profile-trophy.vercel.app/?username=Heryakos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     WAKATIME CODING ACTIVITY
-════════════════════════════════════════════════════════════════ -->
-
-## ⏱️ Coding Activity (WakaTime)
-
-<div align="center">
-
-[![WakaTime](https://img.shields.io/badge/WakaTime-Connect%20to%20see%20live%20stats-1E1E2E?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@Heryakos)
-
-<!--
-  Once you sign up at https://wakatime.com and install the VS Code plugin,
-  replace the badge above with the live chart below (uncomment it):
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Heryakos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
--->
-
-</div>
-
-> 💡 **WakaTime** automatically tracks how many hours you code, in which language, and on which project. Install it free at [wakatime.com](https://wakatime.com) — it works inside VS Code. Once connected, replace the badge above with the live chart!
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     GITHUB CONTRIBUTION SNAKE
+     CONTRIBUTION SNAKE
 ════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
@@ -203,70 +218,49 @@ Focus:      Full-Stack Development & Technical Project Leadership
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heryakos/Heryakos/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heryakos/Heryakos/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Heryakos/Heryakos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heryakos/Heryakos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heryakos/Heryakos/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Heryakos/Heryakos/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
-> 🔧 **To activate the snake animation:** Go to your repo → **Actions** tab → create a new workflow using the file below. It will auto-generate the snake SVG every day.
-
-<details>
-<summary>📋 Click to see the GitHub Action workflow (snake generator)</summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:        # allows manual trigger
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push output to `output` branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
+> ⚡ **The snake auto-updates daily via GitHub Actions.** To generate it for the first time, go to [Actions tab](https://github.com/Heryakos/Heryakos/actions/workflows/snake.yml) → click **"Run workflow"**.
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     SPOTIFY NOW PLAYING
+     WAKATIME CODING ACTIVITY
+════════════════════════════════════════════════════════════════ -->
+
+## ⏱️ Coding Activity
+
+<div align="center">
+
+[![WakaTime](https://img.shields.io/badge/WakaTime-Sign%20up%20%40%20wakatime.com%20to%20see%20live%20stats-1E1E2E?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com)
+
+<!--
+  Once you sign up at https://wakatime.com and install the VS Code extension,
+  uncomment the card below (delete the comment tags):
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Heryakos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
+-->
+
+</div>
+
+> 💡 **WakaTime** tracks your coding time automatically inside VS Code — free at [wakatime.com](https://wakatime.com).
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
+     SPOTIFY
 ════════════════════════════════════════════════════════════════ -->
 
 ## 🎵 Currently Vibing To
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/Spotify-Listening%20to%20good%20music%20while%20coding-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
-
-<!--
-  To show a LIVE "Now Playing" widget from Spotify, follow these steps:
-  1. Fork https://github.com/novatorem/novatorem
-  2. Set up the Vercel deployment with your Spotify credentials
-  3. Replace the badge above with:
-     <img src="https://YOUR-APP.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
--->
+[![Spotify](https://img.shields.io/badge/Spotify-Coding%20to%20good%20music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
 
 </div>
 
@@ -287,14 +281,12 @@ jobs:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     VISITOR MAP
+     VISITOR COUNTER
 ════════════════════════════════════════════════════════════════ -->
 
-## 🗺️ Visitor Map
+## 🗺️ Visitors
 
 <div align="center">
-
-<img src="https://profile-counter.glitch.me/Heryakos/count.svg" alt="Visitor Count" />
 
 [![Visit tracker](https://visitcount.itsvg.in/api?id=Heryakos&icon=6&color=1)](https://visitcount.itsvg.in)
 
