@@ -185,10 +185,10 @@ Focus:      Full-Stack Development & Technical Project Leadership
 
 </div>
 
-<!-- Activity Graph — using alternative reliable endpoint -->
+<!-- Activity Graph -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Heryakos&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Heryakos&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="95%"/>
 
 </div>
 
@@ -202,8 +202,7 @@ Focus:      Full-Stack Development & Technical Project Leadership
 
 <div align="center">
 
-<!-- Using rank_icon and column options for reliability -->
-<img src="https://github-profile-trophy.vercel.app/?username=Heryakos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Heryakos&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 
 </div>
 
@@ -229,26 +228,19 @@ Focus:      Full-Stack Development & Technical Project Leadership
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
+<!--
+═══════════════════════════════════════════════════════════════
      WAKATIME CODING ACTIVITY
-════════════════════════════════════════════════════════════════ -->
+════════════════════════════════════════════════════════════════
 
 ## ⏱️ Coding Activity
 
 <div align="center">
 
-[![WakaTime](https://img.shields.io/badge/WakaTime-Sign%20up%20%40%20wakatime.com%20to%20see%20live%20stats-1E1E2E?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com)
-
-<!--
-  Once you sign up at https://wakatime.com and install the VS Code extension,
-  uncomment the card below (delete the comment tags):
-
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Heryakos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
--->
 
 </div>
-
-> 💡 **WakaTime** tracks your coding time automatically inside VS Code — free at [wakatime.com](https://wakatime.com).
+-->
 
 ---
 
@@ -288,7 +280,7 @@ Focus:      Full-Stack Development & Technical Project Leadership
 
 <div align="center">
 
-[![Visit tracker](https://visitcount.itsvg.in/api?id=Heryakos&icon=6&color=1)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Heryakos&color=blue)](https://github.com/Heryakos)
 
 </div>
 
